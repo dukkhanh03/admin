@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SlugGenerator</id>
+    <version>2.0.2</version>
+    <title>SlugGenerator</title>
+    <authors>JULIK</authors>
+    <owners>JULIK</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/polischuk/SlugGenerator</projectUrl>
+    <iconUrl>https://hsto.org/files/b69/4a3/15b/b694a315b94246abaa837c65b5fe01ff.png</iconUrl>
+    <description>Semantic URL generator (slug) for multiple languages.
+
+Supports cyrillic, latin, Chinese and other languages encodings</description>
+    <summary>Simple Slug and clean URL generator. Supports multiple languages.</summary>
+    <releaseNotes>Added .NET standart 2.0 support</releaseNotes>
+    <copyright>Artem Polischuk</copyright>
+    <tags>.NET, url, slug, generate Semantic URL, uri, seo cyrillic, latin, Chinese character, .NET Core</tags>
+  </metadata>
+</package>
